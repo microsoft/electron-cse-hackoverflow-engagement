@@ -1,14 +1,6 @@
-# Project
+# Electron Developer Experience - CSE HackOverflow Engagement
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This repo is for managing the the CSE HackOverflow Engagement: **Electron Developer Experience**. All engagement work will be tracked and managed using issues. Code contributions should be made directly to the relative Electron org repo (such as electron/electron or electron/electron-fiddle). Any engagement processes should be documented here for general access.
 
 ## Contributing
 
