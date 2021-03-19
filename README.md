@@ -2,6 +2,10 @@
 
 This repo is for managing the the CSE HackOverflow Engagement: **Electron Developer Experience**. All engagement work will be tracked and managed using issues. Code contributions should be made directly to the relative Electron org repo (such as electron/electron or electron/electron-fiddle). Any engagement processes should be documented here for general access.
 
+## Electron Fiddle Templates
+
+Many of the features outlined in this engagement involve building out templates for the [electron-fiddle](https://www.electronjs.org/fiddle) application. For some early reference, see the list of Electron [boilerplate repos](https://www.electronjs.org/community#boilerplates). These templates serve as getting started points for Electron application developers. 
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
