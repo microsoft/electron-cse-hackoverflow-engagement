@@ -4,7 +4,7 @@ This repo is for managing the the CSE HackOverflow Engagement: **Electron Develo
 
 ## Electron Fiddle Templates
 
-Many of the features outlined in this engagement involve building out templates for the [electron-fiddle](https://www.electronjs.org/fiddle) application. For some early reference, see the list of Electron [boilerplate repos](https://www.electronjs.org/community#boilerplates). These templates serve as getting started points for Electron application developers. Templates should be contributed to the [Show Me](https://github.com/electron/fiddle/tree/master/static/show-me) directory of the fiddle application.
+Many of the features outlined in this engagement involve building out templates for the [electron-fiddle](https://www.electronjs.org/fiddle) application. For some early reference, see the list of Electron [boilerplate repos](https://www.electronjs.org/community#boilerplates). These templates serve as getting started points for Electron application developers. Templates should be contributed to either the [Show Me](https://github.com/electron/fiddle/tree/master/static/show-me) directory of the fiddle application or the [/docs/fiddles](https://github.com/electron/electron/tree/master/docs/fiddles) section in the main electron repo which will be included on their main documentation page. 
 
 ## Contributing
 
