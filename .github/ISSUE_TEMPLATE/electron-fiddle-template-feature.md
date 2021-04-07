@@ -13,4 +13,7 @@ assignees: ''
 
 ### Acceptance Criteria 
 
-- [ ] TODO
+- [ ] Develop a template that exemplifies [TODO]
+- [ ] template is contributed to and lands in the [electron/fiddle](https://github.com/electron/fiddle) repo
+- [ ] template is well documented 
+- [ ] template reference back to existing electron documentation and/or examples
