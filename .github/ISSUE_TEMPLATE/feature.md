@@ -2,7 +2,7 @@
 name: feature
 about: A general purpose template for feature work
 title: ''
-labels: Feature
+labels: ''
 assignees: ''
 
 ---
