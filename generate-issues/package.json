@@ -8,6 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "undici": "^3.3.6"
+    "octokit": "^1.0.3"
   }
 }
