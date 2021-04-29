@@ -1,0 +1,13 @@
+{
+  "name": "generate-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "Ethan-Arrowood",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "undici": "^3.3.6"
+  }
+}
